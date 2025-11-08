@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code / JetBrains
+.vscode/
+.idea/
+
+# Python environment
+env/
+venv/
+*.env
+
+# CSV, logs, temporary files
+*.csv
+*.log
+*.tmp
+
+# MacOS
+.DS_Store
+
+# Bybit API keys (اگر از فایل جدا استفاده شد)
+*.key
+*.json
